@@ -1,0 +1,41 @@
+
+  
+  .div2 {
+    display: flex;
+    margin-top: 30px;
+ 
+   
+   
+    
+    justify-content: space-around;
+  }
+  
+ .div3 {
+    display: flex;
+    flex-direction: column;
+ }
+
+ .diiv {
+    display: flex;
+    flex-direction: column;
+ }
+ 
+
+ .div3 .span1 {
+    width: 40px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: rgb(43, 226, 226);
+    color: white;
+    top: 3px;
+    text-align: center;
+    
+ }
+
+ .div3 span {
+     
+    padding-left: 5px;
+ }
+
+
+ 
